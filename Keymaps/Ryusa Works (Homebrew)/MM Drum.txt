@@ -1,0 +1,17 @@
+// MIDI note name map
+58 Smashed Op HH
+56 Close HH 2
+53 Tinkle
+52 Ride
+50 Cowbell
+48 Crash
+47 Hi Tom
+46 Open HH
+45 Mid Tom
+44 1/2 Open HH
+43 Lo Tom
+42 Close HH
+41 Floor Tom
+40 Snare
+38 Clap
+36 Kick

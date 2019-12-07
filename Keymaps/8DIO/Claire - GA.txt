@@ -1,0 +1,6 @@
+// MIDI note name map
+28 Maj 2nd Trills
+27 Min 2nd Trills
+26 Sustains
+25 Marcato
+24 Stacmo

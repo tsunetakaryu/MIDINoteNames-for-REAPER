@@ -1,0 +1,7 @@
+// MIDI note name map
+29 Valve Clicks
+28 Breaths
+27 Min Run Down
+26 Min Run Up
+25 Maj Run Down
+24 Maj Run Up

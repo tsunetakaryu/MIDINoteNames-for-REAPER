@@ -1,0 +1,6 @@
+// MIDI note name map
+28 Pizzicato
+27 Harmonics
+26 Octaves
+25 Mordents
+24 Sustain

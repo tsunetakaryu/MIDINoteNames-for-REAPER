@@ -1,0 +1,74 @@
+# MIDI note name map
+127 Noise and FX
+126 Noise and FX
+125 Noise and FX
+124 Noise and FX
+123 Noise and FX
+122 Noise and FX
+121 Noise and FX
+120 Noise and FX
+119 Noise and FX
+118 Noise and FX
+117 Noise and FX
+116 Noise and FX
+115 Noise and FX
+114 Noise and FX
+113 Noise and FX
+112 Noise and FX
+111 Noise and FX
+110 Noise and FX
+109 Natual Harmonics at fret 9
+108 Natual Harmonics at fret 9
+107 Natual Harmonics at fret 9
+106 Natual Harmonics at fret 9
+105 Natual Harmonics at fret 9
+104 Natual Harmonics at fret 9
+103 Natual Harmonics at fret 9
+102 Natual Harmonics at fret 9
+101 Natual Harmonics at fret 7
+100 Natual Harmonics at fret 7
+99 Natual Harmonics at fret 7
+98 Natual Harmonics at fret 7
+97 Natual Harmonics at fret 7
+96 Natual Harmonics at fret 7
+95 Natual Harmonics at fret 12
+94 Natual Harmonics at fret 12
+93 Natual Harmonics at fret 12
+92 Natual Harmonics at fret 12
+91 Natual Harmonics at fret 12
+90 Natual Harmonics at fret 12
+89 Natual Harmonics at fret 12
+33 Drop A
+32 Slide-Out
+31 Tapping
+30 Tremolo
+29 Repeat Normal
+28 Repeat Normal
+27 Repeat Muting
+26 Repeat Muting
+25 Repeat Picking Noise
+24 Repeat Picking Noise
+23 Insp. Key 19
+22 Insp. Key 18
+21 Insp. Key 17
+20 Insp. Key 16
+19 Insp. Key 15
+18 Insp. Key 14
+17 Insp. Key 13
+16 Insp. Key 12
+15 Insp. Key 11
+14 Insp. Key 10
+13 Insp. Key 9
+12 Insp. Key 8
+11 Insp. Key 7
+10 Insp. Key 6
+9 Insp. Key 5
+8 Insp. Key 4
+7 Insp. Key 3
+6 Insp. Key 2
+5 Insp. Key 1
+4 Slide FX
+3 Feedback
+2 Bridge Picking
+1 Mix Picking
+0 Neck Picking

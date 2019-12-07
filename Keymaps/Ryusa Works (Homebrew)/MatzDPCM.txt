@@ -1,0 +1,28 @@
+# MIDI note name map
+83 Hi
+81 F3
+79 F2
+77 F1
+76 M3
+74 M2
+72 M1
+60 Cowbell
+59 Tinkle
+58 OH 1
+57 Ride
+56 HH 2
+55 Splash
+54 HH 1
+48 Reversed Kick
+47 Rack Tom 1
+46 OH
+45 Rack Tom 2
+44 HH Pedal
+43 Floor Tom 1
+42 CH
+41 Floor Tom 2
+40 Clap 2
+39 Snare 2
+38 Snare
+37 Clap
+36 Kick

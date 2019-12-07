@@ -1,0 +1,73 @@
+// MIDI note name map
+95 Perc 2:Hit
+94 HiTm 2:Rim Click
+93 HiTm:Rim Click
+92 MdTm 2:Rim Click
+91 MdTm:Rim Click
+90 FlrTm 2:Rim Click
+89 FlrTm:Rim Click
+88 Snr:Rim Click
+87 Ride 1:Choke
+86 Snr:Flam
+85 Cym 3:Choke
+84 Kk:No Snr
+83 Perc:Hit
+82 Cym 2:Choke
+81 Ride 1:Hit
+80 Cym 1:Choke
+79 Cym 3:Hit
+78 Crsh 2:Choke
+77 Cym 2:Hit
+76 Cym 1:Hit
+75 Crsh 1:Choke
+74 Crsh 2:Hit
+73 HiTm 2:Rim Shot
+72 Crsh 1:Hit
+71 Ride 1:Bell
+70 HiTm:Rim Shot
+69 Cym 3:Bell
+68 MdTm 2:Rim Shot
+67 Cym 2:Bell
+66 MdTm:Rim Shot
+65 Cym 1:Bell
+64 Crsh 2:Bell
+63 FlrTm 2:Rim Shot
+62 Crsh 1:Bell
+61 FlrTm:Rim Shot
+60 Ride 1:Bow
+59 Cym 3:Bow
+58 HH:Bell Tip
+57 Cym 2:Bow
+56 HH:Splash
+55 Cym 1:Bow
+54 HH:3/4 Shank
+53 Crsh 2:Bow
+52 Crsh 1:Bow
+51 HH:3/4 Tip
+50 Ride 1:Edge
+49 HH:Half Shank
+48 Cym 3:Edge
+47 Cym 2:Edge
+46 HH:Half Tip
+45 Cym 1:Edge
+44 HH:1/4 Shank
+43 Crsh 2:Edge
+42 HH:1/4 Tip
+41 Crsh 1:Edge
+40 HiTm 2:Hit
+39 HH:Open Shank
+38 HiTm:Hit
+37 HH:Closed Shank
+36 MdTm 2:Hit
+35 MdTm:Hit
+34 HH:Open Tip
+33 FlrTm 2:Hit
+32 HH:Pedal
+31 FlrTm:Hit
+30 HH:Closed Tip
+29 Snr:Rim Shot
+28 Snr:Half Edge
+27 Snr:Drag
+26 Snr:Hit
+25 Snr:Side Stick
+24 Kk:Hit

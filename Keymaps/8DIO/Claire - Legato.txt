@@ -1,0 +1,10 @@
+// MIDI note name map
+36 Legato
+31 Marcato
+30 Stacmo
+29 Heavy Vibrato
+28 Vibrato
+27 Strong 2
+26 Strong 1
+25 Medium
+24 Natural

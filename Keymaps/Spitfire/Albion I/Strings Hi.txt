@@ -1,0 +1,16 @@
+// MIDI note name map
+26 FX 3
+25 FX 2
+24 FX 1
+23 Legato (Octave)
+22 Legato CS
+21 Legato
+20 Ostinatum (Spic)
+19 Ostinatum (Short)
+18 Long CS (Octave)
+17 Long (Octave)
+16 Short (Octave)
+15 Long CS
+14 Long
+13 Pizzicato
+12 Short

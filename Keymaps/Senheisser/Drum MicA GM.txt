@@ -1,0 +1,44 @@
+// MIDI note name map
+91 Count Stick
+89 Ride Edge
+88 Ride Tip
+87 Ride Bell
+85 China Edge
+84 China Tip
+83 China Bell
+79 18" Crash Edge
+78 16" Crash Tip
+77 18" Crash Bell
+74 16" Crash Edge
+73 16" Crash Tip
+72 16 Crsh On
+71 Snare w/o Wires
+69 Snare Beachtowel
+67 Snare Roll
+65 HH Trashopen
+64 HH Open
+63 HH 1/2 Open
+62 HH Pedal
+61 HH Closed
+60 HH Pressed
+57 18" Crash Edge
+55 Snare Flam
+53 Ride Bell
+52 China Edge
+51 Ride Tip
+50 Tom 1
+49 16" Crash Edge
+48 Tom 1
+47 Tom 2
+46 HH Open
+45 Tom 2
+44 HH Pedal
+43 Tom Floor
+42 HH Pressed
+41 Tom Floor
+40 Snare Hit
+39 SNR Rimshot
+38 Snare Hit
+37 SNR Sidestick
+36 Bass Drum
+35 Bass Drum

@@ -1,0 +1,21 @@
+// MIDI note name map
+34 Tremolo
+33 Trill
+32 Unison
+31 Quarter
+30 N. Harmonics
+29 P. Harmonics
+28 Chop
+27 Bruth
+26 Mute
+25 Slide
+24 Sustain
+23 4th Sustain & Mute
+22 4th Mute
+21 5th Sustain & Slide
+20 5th Mute
+19 Octave
+18 FX
+17 Mono
+16 Poly
+14 Chord Mode

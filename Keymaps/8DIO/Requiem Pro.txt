@@ -1,0 +1,17 @@
+// MIDI note name map
+36 Tus
+35 Son
+34 Sin
+33 Sanc
+32 Rhi
+31 Nus
+30 Nis
+29 Mus
+28 Ky
+27 Glo
+26 Fis
+25 Fah
+24 Do
+23 Cru
+22 Cre
+21 Ahh

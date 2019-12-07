@@ -1,0 +1,31 @@
+// MIDI note name map
+66 U/D Stroke
+65 Fret Release
+64 ~ Chord
+30 ^ Chord
+29 Reset KS
+28 Harmonics
+27 Reset KS
+26 Staccato
+25 Reset KS
+24 Tremolo
+20 Hard Sus U/D
+18 String 1
+17 String 2
+16 String 3
+15 String 4
+14 String 5
+13 String 6
+12 String 7
+11 All Strings
+10 DI Line Nz Toggle
+9 Tapping Mode Toggle
+8 Let Ring Toggle
+7 Reset RR
+6 Smooth Vib
+5 Whammy Vib
+4 Fingered Heavy
+3 Fingered Light
+2 Picking: Upstrokes
+1 Picking: Downstrokes
+0 Picking: Alternating

@@ -1,0 +1,8 @@
+// MIDI note name map
+30 MP-F-MP VIB
+29 MP-MF-MP VIB
+28 MF-F-MF
+27 M-F-MP
+26 MP-MF-MP
+25 P-MP-P
+24 PP-P-PP

@@ -1,0 +1,17 @@
+// MIDI note name map
+103 Releases Off
+102 Releases
+101 SO Off
+100 Staccato Overlay
+35 Live Mode Off
+34 Live Mode
+33 Legato Off
+32 Legato
+31 Pizzicato
+30 Marcato
+29 Staccato
+28 Run Mode
+27 Whole Trill
+26 Half Trill
+25 Tremolo
+24 Acro

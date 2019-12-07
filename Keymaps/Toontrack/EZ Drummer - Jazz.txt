@@ -1,0 +1,60 @@
+# MIDI note name map
+82 Tom 1 Rimshot
+81 Tom 1 Rimshot
+80 Tom 2 Rimshot
+79 Tom 2 Rimshot
+78 Tom 2 Rimshot
+77 Tom 2 Rimshot
+76 Count Instrument
+75 Tom 3 Rimshot
+74 Tom 3 Rimshot
+73 Tom 3 Rimshot
+72 Tom 3 Rimshot
+71 SNR Rim Only
+70 SNR LR
+69 SNR LR
+68 SNR Mute Right
+67 Brush Full Circle
+66 Brush Short Drag
+65 Hats Closed
+64 Hats Closed
+63 Hats Closed
+62 Hats Tight
+61 Hats Closed
+60 Hats Open 4
+59 Ride Crash
+58 Ride Mute
+57 Ride Crash
+56 Hats Bell Closed
+55 Crash (Left)
+54 Crash Mute (Left)
+53 Ride Bell Shank
+52 Ride Crash
+51 Ride Tip
+50 Tom 1 LR
+49 Crash (Left)
+48 Tom 1 LR
+47 Tom 2 LR
+46 Hats Open 2
+45 Tom 2 LR
+44 Hats Closed Pedal
+43 Tom 3 LR
+42 Hats Closed
+41 Tom 3 LR
+40 SNR Rim Only
+39 Brush Half Circle
+38 SNR Hit LR
+37 Sidestick
+36 Kick
+35 Kick Open
+34 Kick
+26 Hats Open 3
+25 Hats Open 2
+24 Hats Open 1
+23 Hats Open Pedal
+22 Hats Closed
+21 Hats Closed Pedal
+20 Hats Bell Trigger
+19 Hats Tip Trigger
+18 Hats Trigger
+17 Hats Open 4

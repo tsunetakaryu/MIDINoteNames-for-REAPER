@@ -1,0 +1,14 @@
+// MIDI note name map
+115 Bb sus
+114 Octatonic
+113 Pentatonic in F
+112 Whole-tone
+111 Dim
+110 Minor
+109 Major
+108 Special Effects
+107 Paper Notes
+106 Xylo Notes
+105 Pres de la Table
+104 Flageolet
+103 Normal Plucked

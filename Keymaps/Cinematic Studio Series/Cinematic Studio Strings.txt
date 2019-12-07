@@ -1,0 +1,15 @@
+# MIDI note name map
+103 Releases Off
+102 Releases
+101 SO Off
+100 Staccato Overlay
+35 Toggle Con Sordino (Vel)
+34 Toggle Legato (Vel)
+31 Pizzicato (MOD)
+30 Marcato
+29 Staccato (MOD)
+28 Harmonic
+27 Trills
+26 Measured Tremolo
+25 Tremolo
+24 Sustain

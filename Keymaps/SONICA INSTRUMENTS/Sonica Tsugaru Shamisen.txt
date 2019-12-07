@@ -1,0 +1,38 @@
+# MIDI note name map
+120 Riff 8
+119 Riff 7
+118 Riff 6
+117 Riff 5
+116 Riff 4
+115 Riff 3
+114 Riff 2
+113 Riff 1
+105 -
+59 ^
+54 3rd String
+51 2nd String
+49 1st String
+47 Vox 1
+46 Vox 2
+45 Vox 3
+44 Touch Noise
+43 Touch Noise
+42 Touch Noise
+41 Touch Noise
+40 Touch Noise
+39 Toogle Noise
+38 Portamento Up
+37 Staccato
+36 Slide U-D-U-D
+35 Slide U&D
+34 Slide Down (1st only)
+33 Slide U x2 (1st only)
+32 Slide U
+31 Vibrato 1st string only
+30 Hajiki
+29 Staccato open string only
+28 Down Pick
+27 Up Pick
+26 Mute 3rd string only
+25 Up (front) 3rd string open only
+24 Mute (front) 3rd string only

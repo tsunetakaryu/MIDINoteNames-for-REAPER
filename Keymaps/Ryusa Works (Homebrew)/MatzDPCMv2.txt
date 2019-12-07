@@ -1,0 +1,20 @@
+# MIDI note/CC name map
+63 HH Extra
+62 HH Seq
+59 Cowbell
+56 Cymbal 2x
+55 Cymbal 3x
+54 Cymbal 4x
+53 Ride Bell
+51 Ride
+49 Cymbal
+47 Rack Tom 1
+46 Open Hat
+45 Rack Tom 2
+44 Pedal Hat
+43 Floor Tom 1
+42 Closed Hat
+41 Floor Tom 2
+38 Snare
+37 Clap
+36 Kick

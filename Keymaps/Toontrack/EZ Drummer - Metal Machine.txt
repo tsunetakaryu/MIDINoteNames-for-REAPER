@@ -1,0 +1,40 @@
+# MIDI note name map
+65 Hats Seq Hits
+63 Hats Tight Tip
+62 Hats Tight Edge
+58 Cymbal 5 Mute
+57 Cymbal 5 Crash
+55 Splash
+54 Cymbal 2 Mute
+53 Ride Bell
+52 China 2 Crash
+51 Ride
+49 Cymbal 2 Crash
+48 Racktom 1
+47 Racktom 2
+46 Hats Open 2
+45 Racktom 3
+44 Hats Closed Pedal
+43 Floortom 1
+42 Hats Closed Tip
+41 Floortom 2
+40 Snare Rimshot
+39 Snare Hit Ghost
+38 Snare Hit
+37 Snare Sidestick
+36 Kick
+32 Cymbal 6 Crash
+31 Cymbal 4 Crash
+30 Cymbal 3 Crash
+29 Spock Crash
+28 Cymbal 1 Crash
+27 China 1 Crash
+26 Hats Open 3
+23 Hats Open Pedal
+22 Hats Closed Edge
+21 Hats Closed Pedal
+19 Hats Tip Trig
+18 Hats Trig
+16 Hats Open 4
+13 Hats Open 2
+12 Hats Open 1

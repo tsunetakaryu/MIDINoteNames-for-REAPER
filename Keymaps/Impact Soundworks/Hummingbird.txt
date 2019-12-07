@@ -1,0 +1,68 @@
+// MIDI note name map
+106 Str1
+105 Str2/CS1
+104 Str3/CS2
+103 Str4/CS3
+102 Str5/CS2
+101 Str6 / CrdShp 1
+63 ^
+61 Higher str up
+60 1st String
+59 2nd String
+58 Higher str down
+57 3rd String
+56 Lower str up
+55 4th String
+54 Lower str down
+53 5th String
+52 6th String
+51 Mute up
+50 Mute Down
+49 Full strum up
+48 Full Strum Down
+46 Note Repeat
+45 Muted Brush Noiz
+44 Picking Noise
+43 Fret / Position Noiz
+42 Gliss Down
+41 Release/Fret Noiz
+40 No Legato
+38 Hammer-On & Pull-Off/Trill
+37 Nature Harmonics
+36 octave
+35 FX Harmonics
+34 FX Slides
+33 FX Noise, etc
+32 User Chord 1
+31 7th
+30 m7th
+29 sus4
+28 MAJOR
+27 minor
+26 add9
+25 User Chord 2
+24 legato slide
+23 maj7th
+22 9th
+21 m9th
+20 maj9th
+19 dim7
+18 aug
+17 rush
+16 7flat5
+15 m7flat5
+14 7sharp5
+13 6th
+12 m6th
+11 69th
+10 m69th
+9 mMaj7
+8 flat9
+7 sharp9
+6 madd9
+5 7sus4
+4 dim
+3 User Chord 5
+2 User Chord 6
+1 User Chord 7
+0 User Chord 8

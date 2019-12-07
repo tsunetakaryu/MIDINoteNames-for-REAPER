@@ -1,0 +1,53 @@
+// MIDI note name map
+105 Tap Player Toggle
+104 Open String First Toggle
+103 StrMan String 1
+102 Str Man String 2
+101 StrMan String 3
+100 StrMan String 4
+99 Auto Legato Mode Switch
+97 FX Slide 4
+96 FX Slide 3
+95 FX Slide 2
+94 FX Slide 1
+93 Slap Right
+92 Slap Left
+91 Accentuation Noise
+90 Scratch 2
+89 Scratch 1
+88 Ascending Octave
+87 Single Note Repeat
+86 Ascending Fifth
+85 Single Note Repeat
+84 Unison
+83 Descending Fourth
+82 Dead Note
+81 Buzz
+56 16
+55 15
+54 14
+53 13
+52 12
+51 11
+50 10
+49 9
+48 8
+47 7
+46 6
+45 5
+44 4
+43 3
+42 2
+41 1
+40 0
+34 Capo Man
+33 Pop
+32 Tap
+31 Slap
+30 Staccato
+29 Hammer-On & Pull-Off
+28 Legato Slide
+27 Slide In & Out
+26 Palm Mute
+25 Nature Harmonic
+24 Sustain

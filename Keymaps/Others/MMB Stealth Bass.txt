@@ -1,0 +1,5 @@
+# MIDI note name map
+15 Up Slide
+14 Down Slide
+13 Alter Pick
+12 Force Downpick

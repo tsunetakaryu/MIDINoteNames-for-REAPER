@@ -1,0 +1,23 @@
+# MIDI note name map
+88 Low Choke
+87 Noise 2
+86 Noise 1
+85 ^
+39 ^ Lowest Note
+38 High Choke u/d
+37 Med Choke u/d
+36 Low Choke u/d
+31 KS Reset
+29 KS: Harmonics
+28 KS: Tremolo
+26 KS: Palm Mute
+24 KS: Octave Sus
+23 Toggle Extra pick sound
+22 Toggle: Release noises
+18 Free Strings
+17 Play in E
+16 Play in B
+15 Play in G
+14 Play in D
+13 Play in A
+12 Play in E

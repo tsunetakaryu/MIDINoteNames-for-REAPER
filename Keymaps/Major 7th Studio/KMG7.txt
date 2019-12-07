@@ -1,0 +1,23 @@
+// MIDI note name map
+44 Solo Mute
+43 Solo
+42 Pwr Chrd 4th Mute
+41 Pwr Chrd 4th
+40 Slide Noise
+39 Pwr Chrd 5th Mute
+38 Pwr Chrd 5th
+37 Pwr Chrd Mute
+36 Power Chord
+35 String 7th
+34 Start UpPicking SW
+33 String 6th
+32 Solo Mute 16 Beat
+31 Strinng 5th
+29 String 4th
+28 String 3rd
+27 P.C. 5th Mute 16beat
+26 String 2nd
+25 Keep Key ON
+24 String 1st
+23 Keep String Key
+21 All Note OFF

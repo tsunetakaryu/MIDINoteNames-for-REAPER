@@ -1,0 +1,57 @@
+// MIDI note name map
+65 H Seq Hits
+64 H Closed
+63 H Closed Tip
+62 H Closed Tip
+61 H Closed Tip
+60 H Open 3
+59 Ride
+58 Cym 5 Mute
+57 Cym 5 Crash
+56 Ride Bell
+55 Splash Crash
+54 Cym 2 Mute
+53 Ride Bell
+52 China 2 Crash
+51 Ride
+50 Rack Tom 1
+49 Cym 2 Crash
+48 Rack Tom 1
+47 Rack Tom 2
+46 H Open 2
+45 Rack Tom 3
+44 H Closed Pedal
+43 Floor Tom 1
+42 H Closed Tip
+41 Floor Tom 2
+40 Rimshot
+39 Snare
+38 Snare
+37 Sidestick
+36 Kick L/R
+35 Kick L/R
+34 Kick L/R
+33 Snare
+32 Cym 6 Crash
+31 Cym 4 Crash
+30 Cym 3 Crash
+29 Spock Crash
+28 Cym 1 Crash
+27 China 1 Crash
+26 H Open 3
+25 H Open 2
+24 H Open 1
+23 H Open Pedal
+22 H Closed
+21 H Closed Pedal
+20 H Tip Trigger
+19 H Tip Trigger
+18 H Tip Trigger
+17 H Open 3
+16 H Open 3
+15 H Open 2
+14 H Open 2
+13 H Open 1
+12 H Open 1
+11 H Closed Tip
+10 H Closed Pedal
