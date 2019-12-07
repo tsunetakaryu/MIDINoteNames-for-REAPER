@@ -1,5 +1,7 @@
-// MIDI note name map
-105 Tap Player Toggle
+# MIDI note/CC name map
+107 Capo Logic Mode
+106 Riff Play Toggle
+105 Tap Play Toggle
 104 Open String First Toggle
 103 StrMan String 1
 102 Str Man String 2
@@ -44,7 +46,7 @@
 33 Pop
 32 Tap
 31 Slap
-30 Staccato
+30 Repeat
 29 Hammer-On & Pull-Off
 28 Legato Slide
 27 Slide In & Out
