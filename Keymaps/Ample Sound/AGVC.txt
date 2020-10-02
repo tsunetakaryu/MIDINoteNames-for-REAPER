@@ -1,0 +1,34 @@
+# MIDI note/CC name map
+107 Capo Logic Mode
+106 Riff Play toggle
+105 Tab Play toggle
+104 Open Strings First
+103 FX 2
+102 FX 1
+101 Pick Scrape
+100 Repeat
+99 Auto Legato Mode
+98 Repeat
+97 Strum Mode
+96 Upstroke Noise 2
+95 Downstroke Noise 2
+94 Upstroke Noise 1
+93 Downstroke Noise 1
+92 Silent Stroke
+91 Silent Press
+90 Slap
+89 Scratch
+37 Capo Man
+36 Force 1
+35 Force 2
+34 Force 3
+33 Force 4
+32 Force 5
+31 Force 6
+30 Tap
+29 Hammer-On Pull-Off
+28 Legato Slide
+27 Slide in&out
+26 Palm Mute
+25 Nature Harmonics
+24 Legato
