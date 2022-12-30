@@ -1,0 +1,62 @@
+# MIDI note/CC name map
+84 China 1 Crash
+83 China 1 Muted Hit
+82 Racktom 1 Rimshot
+81 Racktom 1 Center
+80 Racktom 2 Rimshot
+79 Racktom 2 Center
+78 Racktom 3 Rimshot
+77 Racktom 3 Center
+75 Floortom 1 Rimshot
+74 Floortom 1 Center
+73 Floortom 2 Rimshot
+72 Floortom 2 Center
+65 HH Closed Edge
+64 HH Open Edge 0
+63 HH Tight Tip
+62 HH Tight Edge
+61 HH Closed Tip
+60 HH Open Edge 4
+59 Ride Edge
+58 Crash 3 Muted Hit
+57 Crash 3
+56 Splash Muted Hit
+55 Splash
+54 China 2 Muted Hit
+53 Ride Bell Shank
+52 China 2 Crash
+51 Ride Bow Tip
+50 Crash 1 Muted Hit
+49 Crash 1
+48 Racktom 1
+47 Racktom 2
+46 HH Open Edge 2
+45 Racktom 3
+44 HH Pedal Closed
+43 Floortom 1
+42 HH Closed Tip
+41 Floortom 2
+40 Snare Rimshot
+39 Snare Hit Ghost
+38 Snare Center
+37 Snare Sidestick
+36 Kick Omni
+35 Kick 2
+34 Kick 1
+32 Crash 3
+30 Crash 2
+28 Crash 1
+26 HH Open Edge 3
+25 HH Open Edge 2
+24 HH Open Edge 1
+23 HH Pedal Open
+22 HH Closed Edge
+20 HH Edge Trigger
+19 HH Tip Trigger
+18 HH Edge Trigger
+17 HH Open Edge 5
+16 HH Open Edge 4
+15 HH Open Edge 3
+14 HH Open Edge 2
+13 HH Open Edge 1
+12 HH Open Edge 0
