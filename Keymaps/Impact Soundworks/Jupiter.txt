@@ -1,0 +1,24 @@
+# MIDI note/CC name map
+32 Repeat
+31 Slide Note
+30 Noise
+29 Slide
+21 Choke
+20 Tremolo
+19 FX
+18 Tapping
+17 Harmonics
+15 Power Chord Staccato
+14 Staccato
+13 Power Chord Sustain
+12 Sustain
+11 Hand Position off
+10 Hand Position (vel)
+7 Force String off
+6 Force 1
+5 Force 2
+4 Force 3
+3 Force 4
+2 Force 5
+1 Force 6
+0 Force 7

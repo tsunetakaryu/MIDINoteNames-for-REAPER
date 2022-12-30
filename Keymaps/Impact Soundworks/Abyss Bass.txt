@@ -1,0 +1,9 @@
+# MIDI note/CC name map
+20 Repeat
+19 Slide Note
+17 Slide
+16 FX
+15 Harmonics
+14 Tapping
+13 Staccato
+12 Sustain
